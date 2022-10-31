@@ -24,7 +24,7 @@ public class Fire : MonoBehaviour
     void Start()
     {
         audioSrc = GetComponent<AudioSource>();
-        
+
     }//end Start()
 
     // Update is called once per frame
